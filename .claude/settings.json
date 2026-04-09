@@ -15,18 +15,5 @@
       "Bash(git push --force:*)",
       "Bash(git reset --hard:*)"
     ]
-  },
-  "hooks": {
-    "PreToolUse": [
-      {
-        "matcher": "Write",
-        "hooks": [
-          {
-            "type": "command",
-            "command": "if echo '$CLAUDE_TOOL_INPUT' | grep -qE '(STRIPE_SECRET|SERVICE_ROLE|SUPABASE.*KEY)'; then echo 'BLOQUEADO: secret detectado no código. Use process.env em vez disso.' && exit 1; fi"
-          }
-        ]
-      }
-    ]
   }
 }

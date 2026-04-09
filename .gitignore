@@ -1,0 +1,39 @@
+# ─────────────────────────────────────────
+#  .gitignore padrão para projetos do kit
+#  Copie este arquivo para o seu projeto
+# ─────────────────────────────────────────
+
+# Ambiente — NUNCA commita secrets
+.env.local
+.env.*.local
+.env
+
+# Next.js
+.next/
+out/
+build/
+
+# Dependências
+node_modules/
+.pnp
+.pnp.js
+
+# Supabase
+.supabase/
+
+# Vercel
+.vercel
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
