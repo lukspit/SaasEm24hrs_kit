@@ -107,13 +107,26 @@ O kit bloqueia ativamente padrões inseguros:
 ## A jornada das 24h
 
 ```
-DEFINE      →  MVP claro, 3 features, modelo de cobrança
+DEFINE      →  MLP definido — 4 features na pirâmide, modelo de cobrança
 FUNDAÇÃO    →  Next.js + Supabase configurados e seguros
-CORE        →  Feature principal funcionando
-UI/UX       →  Interface que parece premium
+CORE        →  Features funcionando (Functional + Reliable)
+UI/UX       →  Experiência sem fricção + o momento "uau" (Usable + Delightful)
 MONETIZA    →  Stripe rodando, pagamento testado
 SHIP        →  No ar com copy que converte
 ```
+
+### A pirâmide do MLP
+
+Com IA, construir o básico é commodity. O kit te guia pelos 4 níveis:
+
+```
+        ★ Delightful   — o momento "uau" que gera indicação
+       ★★★ Usable      — sem fricção, intuitivo
+      ★★★★ Reliable    — não quebra, não frustra
+    ★★★★★★ Functional  — faz o que promete
+```
+
+MVP tradicional para no primeiro nível. Com Claude Code, você sobe todos os 4 em 24h.
 
 Cada fase tem um agente especializado. O orquestrador conduz o fluxo.
 

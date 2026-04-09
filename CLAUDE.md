@@ -19,8 +19,9 @@ Toda decisão técnica parte daqui. Não sugira alternativas, não questione a s
 
 ## Mentalidade de Builder
 
-- **MVP hoje, perfeição nunca.** Entregue funcionando antes de otimizar.
-- **3 features máximo no v1.** Mais que isso é escopo aberto. Corte sem dó.
+- **MLP, não MVP.** Com IA, qualquer um faz o básico. O diferencial é construir algo que as pessoas amam e indicam.
+- **A pirâmide do MLP:** Functional → Reliable → Usable → Delightful. Todos os 4 níveis em 24h.
+- **4 features no v1.** Uma por camada da pirâmide. A Delightful é obrigatória — é o que faz o usuário mandar print pro amigo.
 - **Mobile-first sempre.** Todo componente começa pelo viewport menor.
 - **Monetização no dia 1.** Stripe entra na fundação, não como afterthought.
 
