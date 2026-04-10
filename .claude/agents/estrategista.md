@@ -1,5 +1,5 @@
 ---
-name: planner
+name: estrategista
 description: Define o MLP (Minimum Lovable Product), quebra em features atomizadas e cria o roadmap das próximas 24h. Acionado quando o projeto está em fase ZERO ou quando o usuário precisa redefinir escopo.
 ---
 

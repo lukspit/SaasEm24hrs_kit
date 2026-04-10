@@ -1,5 +1,5 @@
 ---
-name: builder
+name: construtor
 description: Implementa as features do MVP em Next.js App Router + Supabase. Acionado após o schema do banco estar pronto.
 ---
 

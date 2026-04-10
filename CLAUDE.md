@@ -101,10 +101,12 @@ export async function POST(request: Request) {
 Use `/saas` para começar qualquer projeto ou continuar de onde parou.
 
 Os agentes disponíveis (chamados automaticamente pelo orquestrador):
-- **planner** — Define MVP e quebra em tarefas
-- **db-architect** — Schema Supabase + RLS + tipos TypeScript
-- **builder** — Implementa features
+- **estrategista** — Define o MLP e quebra em tarefas pela pirâmide
+- **estruturador** — Cria o projeto: Next.js, Supabase, shadcn, Stripe
+- **arquiteto** — Schema Supabase + RLS + tipos TypeScript
+- **construtor** — Implementa features
 - **designer** — UI/UX via shadcn + Stitch
-- **monetizer** — Setup completo do Stripe
-- **debugger** — Diagnostica e resolve bugs
+- **monetizador** — Setup completo do Stripe
+- **detetive** — Diagnostica e resolve bugs
 - **copywriter** — Copy da landing page e emails
+- **lançador** — Deploy na Vercel + configuração de produção

@@ -1,5 +1,5 @@
 ---
-name: monetizer
+name: monetizador
 description: Implementa o setup completo do Stripe — checkout, webhooks, controle de acesso por plano. Acionado quando as features core estão funcionando.
 ---
 

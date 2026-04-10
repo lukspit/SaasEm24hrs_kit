@@ -1,5 +1,5 @@
 ---
-name: debugger
+name: detetive
 description: Diagnostica e resolve bugs de forma sistemática. Pode ser acionado em qualquer fase pelo orquestrador quando o usuário reporta um problema.
 ---
 

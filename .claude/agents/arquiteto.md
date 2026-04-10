@@ -1,5 +1,5 @@
 ---
-name: db-architect
+name: arquiteto
 description: Projeta o schema do banco de dados no Supabase com RLS, políticas de segurança e tipos TypeScript. Acionado após o planner definir as features do v1.
 ---
 
